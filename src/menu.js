@@ -8,6 +8,7 @@ const Menu = () => {
     setIsOpen(!isOpen);
   };
 
+  
   return (
     <nav className="bg-gray-500 p-4 flex flex-col lg:flex-row justify-between items-center">
       {/* Logo */}
